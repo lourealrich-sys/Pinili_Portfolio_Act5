@@ -1,4 +1,4 @@
-# Developer Portfolio Web Application
+# Web Portfolio
 
 A clean, modern, and professional portfolio web page built using **HTML5**, **CSS3**, and **Bootstrap 5**. 
 ---
